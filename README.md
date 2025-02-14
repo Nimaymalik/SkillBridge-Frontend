@@ -1,4 +1,4 @@
-# Job Portal 💼
+# SkillBridge 💼
 Job Portal is a MERN stack application designed to connect job seekers with employers. It includes features for job searching, resume uploads, job postings, and more, with secure authentication powered by Clerk. The platform is fully responsive and optimized for deployment on Vercel.
 
 ---
